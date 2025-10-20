@@ -6,8 +6,8 @@ from surmount.logging import log
 class TradingStrategy(Strategy):
     def __init__(self):
         # Define tickers for both high growth (leveraged) and safe (gold, silver, bonds) ETFs
-        self.high_growth_etfs = ["TQQQ", "GDXU"]  # Example leveraged ETFs for bullish markets
-        self.safe_etfs = ["GLD", "SLV", "TLT"]  # Example gold, silver, and bond ETFs for bearish markets
+        self.high_growth_etfs = ["TQQQ", "GDXU", "KORU"]  # Example leveraged ETFs for bullish markets
+        self.safe_etfs = ["GLD", "SLVp", "TLT", "gdx", "BNB"]  # Example gold, silver, and bond ETFs for bearish markets
         
         # You can further expand or adjust the ETFs based on your investment preferences and research
 
