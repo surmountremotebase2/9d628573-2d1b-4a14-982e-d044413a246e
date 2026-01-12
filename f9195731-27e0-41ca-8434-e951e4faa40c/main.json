@@ -1,1 +1,1 @@
-{"allocations": {"VTI": 18.0, "VXUS": 14.0, "BND": 22.0, "TIPS": 10.0, "GLD": 14.0, "GDX": 3.0, "SLV": 3.0, "QQQ": 5.0, "NVDA": 6.0, "ARKK": 2.0, "TSLA": 3.0}, "frequency": 3, "name": "", "period": "months"}
+{"allocations": {"VTI": 18.0, "VXUS": 14.0, "BND": 22.0, "TIPS": 10.0, "GLD": 14.0, "GDX": 3.0, "SLV": 3.0, "QQQ": 5.0, "NVDA": 6.0, "ARKK": 2.0, "TSLA": 3.0}, "frequency": 30, "name": "Balanced Growth Portfolio", "period": "days"}
