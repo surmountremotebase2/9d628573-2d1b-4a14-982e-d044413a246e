@@ -1,1 +1,1 @@
-{"allocations": {"SMH": 18.0, "NVDA": 14.0, "MU": 11.0, "ANET": 9.0, "AMD": 9.0, "WDC": 8.0, "STX": 7.0, "QCOM": 7.0, "CSCO": 6.0, "IBM": 6.0, "GOOGL": 5.0}, "frequency": 3, "name": "", "period": "months"}
+{"allocations": {"SMH": 16.0, "SMHX": 8.0, "DRAM": 10.0, "NVDA": 12.0, "MU": 10.0, "ANET": 9.0, "AMD": 8.0, "WDC": 7.0, "STX": 6.0, "QCOM": 6.0, "IBM": 4.0, "GOOGL": 4.0}, "frequency": 3, "name": "", "period": "months"}
